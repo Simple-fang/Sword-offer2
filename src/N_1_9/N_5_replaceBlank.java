@@ -1,7 +1,7 @@
 package N_1_9;
 
 /**
- * ½«Ò»¸ö×Ö·û´®ÖĞµÄ¿Õ¸ñÌæ»»³É "%20"
+ * æ›¿æ¢ç©ºæ ¼ä¸º%20 ï¼ˆtestï¼‰
  *
  */
 public class N_5_replaceBlank {
@@ -18,9 +18,11 @@ public class N_5_replaceBlank {
 		return sb.toString();
 	}
 	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(replace("ab c "));
+		
 	}
 
 }
